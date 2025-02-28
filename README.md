@@ -119,23 +119,6 @@ I’m always eager to collaborate on cutting-edge technologies and work on proje
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Nullpoint11&show_icons=true&theme=radical" alt="Mahesh's GitHub stats" height="180px" />
-  
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nullpoint11&layout=compact&theme=radical" alt="Top Languages" height="180px" />
-</p>
-
-<!-- Optional: GitHub Streak -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nullpoint11&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 - 🔗 **LinkedIn:** [Mahesh Gali](https://www.linkedin.com/in/mahesh-gali-004606250)  
